@@ -24,7 +24,7 @@ const greeting = {
   subTitle:
     "Dynamic full-stack developer passionate about creating sustainable tech solutions, using end-to-end expertise to drive transformative outcomes.",
   resumeLink:
-    "https://drive.google.com/file/d/18iOC3cprXQv0iRM6pVqlQ2PUm1LHUiCM/view?usp=drive_link",
+    "https://drive.google.com/file/d/1kCYDaoT9qIricNtMzPHLu9Efw-xSENSp/view?usp=drive_link",
   portfolio_repository: "https://github.com/AayushiAhlawat/masterPortfolio",
   githubProfile: "https://github.com/AayushiAhlawat",
 };
@@ -463,7 +463,7 @@ const experience = {
   title: "Work Experience",
   //subtitle: "Work, Internship and Volunteership",
   description:
-    "I have over 2 years of experience as a software engineer, where I've focused on developing scalable solutions and delivering high-quality software. My work includes designing RESTful APIs, building microservices, and enhancing web applications using Java, Spring Boot, and AngularJS.",
+    "I have over 4 years of experience as a Software Engineer, where I've focused on developing scalable solutions and delivering high-quality software. My work includes designing RESTful APIs, building microservices, and enhancing web applications using Java, Spring Boot, and AngularJS.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -482,11 +482,11 @@ const experience = {
           color: "#0879bf",
         },
         {
-          title: "Software Developer Intern",
+          title: "Software Developer",
           company: "CriticalRiver Inc.",
           company_url: "https://www.criticalriver.com/",
           logo_path: "criticalriver.png",
-          duration: "May 2023 - August 2023",
+          duration: "May 2023 - April 2024",
           location: "Pleasanton, CA, United States",
           description:
             "Developed the Credit Scoring Microservice using Core Java, followed by creating RESTful APIs and Angular front-end components, and contributed to Git and Jenkins configurations. Established a JUnit testing framework, automated tests with Selenium, and actively participated in Agile Scrum processes.",
@@ -501,6 +501,17 @@ const experience = {
           location: "Delhi, India",
           description:
             "Created RESTful APIs for the Inventory Adapter, improving automation and deployment. Led microservices with Java Spring Boot and Angular 10, boosting user engagement. Customized Salesforce for better data accuracy. Resolved network issues with VMware, enhanced performance, and streamlined migrations with Docker and Kubernetes. Designed responsive web pages using HTML5, CSS, JavaScript, and AJAX.",
+            color: "#0879bf",
+        },
+        {
+          title: "Software Developer Intern",
+          company: "NIIT Technologies",
+          company_url: "https://www.niit.com/en/learning-outsourcing/",
+          logo_path: "niit.png",
+          duration: "August 2018 - July 2020",
+          location: "Delhi, India",
+          description:
+            "Developed enterprise applications using Java/J2EE, optimized with design patterns like DAO and MVC. Improved database efficiency in Oracle DB and managed deployments using Visual Studio Code and Git. Collaborated with teams to align technical solutions with business requirements.",
             color: "#0879bf",
         },
       ],
