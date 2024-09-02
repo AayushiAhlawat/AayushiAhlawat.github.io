@@ -24,7 +24,7 @@ const greeting = {
   subTitle:
     "Dynamic full-stack developer passionate about creating sustainable tech solutions, using end-to-end expertise to drive transformative outcomes.",
   resumeLink:
-    "https://drive.google.com/file/d/1kCYDaoT9qIricNtMzPHLu9Efw-xSENSp/view?usp=drive_link",
+    "https://shorturl.at/gMc7y",
   portfolio_repository: "https://github.com/AayushiAhlawat/masterPortfolio",
   githubProfile: "https://github.com/AayushiAhlawat",
 };
