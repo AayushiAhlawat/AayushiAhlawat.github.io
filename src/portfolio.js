@@ -475,7 +475,7 @@ const experience = {
           company: "Headstarter AI",
           company_url: "https://headstarter.co/",
           logo_path: "headstarter.jpeg",
-          duration: "July 2024 - Present",
+          duration: "July 2024 - September 2024",
           location: "Raleigh, NC, United States",
           description:
             "Designed AI apps and APIs using NextJS and OpenAI, achieving high accuracy and reaching thousands of users. Lead projects from design to deployment, mentor fellow engineers, and receive coaching from industry experts on Agile, CI/CD, and microservices.",
