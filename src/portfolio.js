@@ -24,7 +24,7 @@ const greeting = {
   subTitle:
     "Dynamic full-stack developer passionate about creating sustainable tech solutions, using end-to-end expertise to drive transformative outcomes.",
   resumeLink:
-    "https://shorturl.at/gMc7y",
+    "https://shorturl.at/e7FK5",
   portfolio_repository: "https://github.com/AayushiAhlawat/masterPortfolio",
   githubProfile: "https://github.com/AayushiAhlawat",
 };
@@ -463,13 +463,35 @@ const experience = {
   title: "Work Experience",
   //subtitle: "Work, Internship and Volunteership",
   description:
-    "I have over 4 years of experience as a Software Engineer, where I've focused on developing scalable solutions and delivering high-quality software. My work includes designing RESTful APIs, building microservices, and enhancing web applications using Java, Spring Boot, and AngularJS.",
+    "I have over 4 years of experience as a Software Engineer, where I've focused on developing scalable solutions and delivering high-quality software. My work includes designing RESTful APIs, building microservices, and enhancing web applications using Python, Node.js, Java, Spring Boot, and ReactJS.",
   header_image_path: "experience.svg",
   sections: [
     {
       title: "Work",
       work: true,
       experiences: [
+        {
+          title: "Associate Data Engineer",
+          company: "DataGurus LLC",
+          company_url: "https://datagurus.org/",
+          logo_path: "datagurus.png",
+          duration: "September 2024 - Present",
+          location: "Raleigh, NC, United States",
+          description:
+            "Developed Python web scraping scripts, cleaned 500K+ rows of data with 99% accuracy, and built a Node.js and Redis-based cart service with PostgreSQL, improving session data retrieval by 30%. Created a responsive React front-end and collaborated with teams to align technical solutions with business needs.",
+          color: "#0879bf",
+        },
+        {
+          title: "Research Assistant",
+          company: "State University of New York at Binghamton",
+          company_url: "https://www.binghamton.edu/",
+          logo_path: "bu_logo.png",
+          duration: "September 2024 - Present",
+          location: "Raleigh, NC, United States",
+          description:
+            "Conducted research on personality traits in digital activism using Python and machine learning to analyze online engagement in movements like #MeToo, and developed strategies to prevent online harassment and enhance support for activists.",
+          color: "#0879bf",
+        },
         {
           title: "Software Engineering Fellow",
           company: "Headstarter AI",
@@ -504,7 +526,7 @@ const experience = {
             color: "#0879bf",
         },
         {
-          title: "Software Developer Intern",
+          title: "Software Developer",
           company: "NIIT Technologies",
           company_url: "https://www.niit.com/en/learning-outsourcing/",
           logo_path: "niit.png",
