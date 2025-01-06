@@ -24,7 +24,7 @@ const greeting = {
   subTitle:
     "Dynamic full-stack developer passionate about creating sustainable tech solutions, using end-to-end expertise to drive transformative outcomes.",
   resumeLink:
-    "https://shorturl.at/e7FK5",
+    "https://shorturl.at/mtgl6",
   portfolio_repository: "https://github.com/AayushiAhlawat/masterPortfolio",
   githubProfile: "https://github.com/AayushiAhlawat",
 };
@@ -504,17 +504,6 @@ const experience = {
           color: "#0879bf",
         },
         {
-          title: "Software Developer",
-          company: "CriticalRiver Inc.",
-          company_url: "https://www.criticalriver.com/",
-          logo_path: "criticalriver.png",
-          duration: "May 2023 - April 2024",
-          location: "Pleasanton, CA, United States",
-          description:
-            "Developed the Credit Scoring Microservice using Core Java, followed by creating RESTful APIs and Angular front-end components, and contributed to Git and Jenkins configurations. Established a JUnit testing framework, automated tests with Selenium, and actively participated in Agile Scrum processes.",
-          color: "#0879bf",
-        },
-        {
           title: "Software Engineer",
           company: "Infosys Limited",
           company_url: "https://www.infosys.com/",
@@ -684,9 +673,9 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_aayushi.png",
+    profile_image_path: "Photo.png",
     description:
-      "Actively available on various social media platforms. I can assist with ML, AI, Angular, Android, Cloud, Full-Stack, and Open Source Development.",
+      "Actively available on various social media platforms. I can assist with ML, AI, Angular, React, Cloud, Full-Stack, and Open Source Development.",
   },
   // blogSection: {
   //   title: "Blogs",
@@ -697,12 +686,12 @@ const contactPageData = {
   // },
   addressSection: {
     title: "Address",
-    subtitle: "Cormiche Lane, Wake Forest, NC, USA 27587",
+    subtitle: "Wake Forest, NC, USA 27587",
     locality: "Wake Forest",
     country: "USA",
     region: "North Carolina",
     postalCode: "27587",
-    streetAddress: "Cormiche Lane",
+    streetAddress: "",
     avatar_image_path: "address_image.svg",
     location_map_link: "https://maps.app.goo.gl/zCw14sTWCNjPai4g7",
   },
